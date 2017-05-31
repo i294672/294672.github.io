@@ -1,2 +1,4 @@
 # 294672.github.io
-<html>a</html>
+<html>
+  <head>東京自由行</head>
+</html>
